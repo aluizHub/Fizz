@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://xscripts.cc/KcFFqFl9LCsI918ZaJMKr7UYNkTmbn4a1NWpg8JaHFhSqGBedZa8wIHpVfpOxJrW1JAIr8KSVLnCRO01"))()
+loadstring(game:HttpGet("https://xscripts.cc/9S11777TKyPImMUUcjecR8BADOSUWsxkQRr3cpQO4Tnk4HYmQZl9eFAJBZt1UNpHo9Dm8CWA0kh8asRL"))()
